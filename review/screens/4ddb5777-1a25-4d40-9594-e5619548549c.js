@@ -12,14 +12,14 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
       <div id="loadMark"></div>\
     </div>\
 \
-    <div id="s-a7d0ef2a-639a-4f55-992c-b04d85b07548" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="map" width="375" height="812">\
+    <div id="s-4ddb5777-1a25-4d40-9594-e5619548549c" class="screen growth-vertical devMobile devIOS canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Safety" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/a7d0ef2a-639a-4f55-992c-b04d85b07548-1620798045220.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/a7d0ef2a-639a-4f55-992c-b04d85b07548-1620798045220-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/a7d0ef2a-639a-4f55-992c-b04d85b07548-1620798045220-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/4ddb5777-1a25-4d40-9594-e5619548549c-1620798045220.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/4ddb5777-1a25-4d40-9594-e5619548549c-1620798045220-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/4ddb5777-1a25-4d40-9594-e5619548549c-1620798045220-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
-      <div id="s-by" class="pie richtext autofit firer ie-background commentable non-processed" customid="by"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="21.0" dataY="155.0" >\
+      <div id="s-Name" class="pie richtext autofit firer ie-background commentable non-processed" customid="Name"   datasizewidth="322.1px" datasizeheight="28.0px" dataX="26.5" dataY="122.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -28,52 +28,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-by_0"></span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Name" class="pie richtext autofit firer ie-background commentable non-processed" customid="Name"   datasizewidth="42.1px" datasizeheight="28.0px" dataX="21.0" dataY="127.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Name_0">Map</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Name_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Name_1"   datasizewidth="36.7px" datasizeheight="24.0px" dataX="20.5" dataY="934.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Name_1_0">map</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Paragraph_1" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_1"   datasizewidth="334.0px" datasizeheight="147.0px" dataX="20.5" dataY="964.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_1_0">Lorem ipsum dolor sit amet, sapien etiam, nunc amet dolor ac odio mauris justo. Luctus arcu, urna praesent at id quisque ac. Arcu es massa vestibulum malesuada, integer vivamus elit eu mauris eus, cum eros quis aliquam wisi. Nulla wisi laoreet suspendisse integer vivamus elit eu mauris hendrerit facilisi, mi mattis pariatur aliquam pharetra eget.</span>\
+                <span id="rtr-s-Name_0">Please read before accessing app</span>\
               </div>\
             </div>\
           </div>\
@@ -89,6 +44,36 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
             <div class="content">\
               <div class="valign">\
                 <span id="rtr-s-spacer_0"></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Name_4" class="pie richtext autofit firer ie-background commentable non-processed" customid="Name_1"   datasizewidth="281.0px" datasizeheight="24.0px" dataX="26.5" dataY="171.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Name_4_0">Avoid Bringing Your Own Alcohol </span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_2" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_1"   datasizewidth="334.0px" datasizeheight="54.0px" dataX="26.5" dataY="415.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_2_0">There are alcohol bans across cape york and that may involve heavy fines</span>\
               </div>\
             </div>\
           </div>\
@@ -137,7 +122,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                     </div>\
                   </div>\
 \
-                  <div id="s-Image_17" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_17"   datasizewidth="17.0px" datasizeheight="12.0px" dataX="63.0" dataY="12.0"   alt="image" systemName="./images/af3e025c-7f02-44a1-8f9b-21c1c992bf12.svg" overlay="#000000">\
+                  <div id="s-Image_17" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_17"   datasizewidth="17.0px" datasizeheight="12.0px" dataX="63.0" dataY="12.0"   alt="image" systemName="./images/cefb2c8f-e6a7-4d04-8102-689cd1127b1d.svg" overlay="#000000">\
                     <div class="borderLayer">\
                     	<div class="imageViewport">\
                       	<?xml version="1.0" encoding="UTF-8"?>\
@@ -156,7 +141,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                   </div>\
 \
 \
-                  <div id="s-Image_18" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_18"   datasizewidth="18.0px" datasizeheight="18.0px" dataX="40.0" dataY="9.0"   alt="image" systemName="./images/dc9e2335-2815-4b65-923b-8105f5064a03.svg" overlay="#000000">\
+                  <div id="s-Image_18" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_18"   datasizewidth="18.0px" datasizeheight="18.0px" dataX="40.0" dataY="9.0"   alt="image" systemName="./images/ed537be1-7819-4119-97e3-be03f35c592e.svg" overlay="#000000">\
                     <div class="borderLayer">\
                     	<div class="imageViewport">\
                       	<?xml version="1.0" encoding="UTF-8"?>\
@@ -167,7 +152,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
                   </div>\
 \
 \
-                  <div id="s-Image_4" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_4"   datasizewidth="25.0px" datasizeheight="12.0px" dataX="10.0" dataY="14.0"   alt="image" systemName="./images/8223379a-e70e-4fac-9ee2-6be05ade3c76.svg" overlay="#000000">\
+                  <div id="s-Image_4" class="pie image firer ie-background commentable pin vpin-beginning hpin-end non-processed-pin non-processed" customid="Image_4"   datasizewidth="25.0px" datasizeheight="12.0px" dataX="10.0" dataY="14.0"   alt="image" systemName="./images/01994b39-fe57-4c58-aa20-323a8a4b96d8.svg" overlay="#000000">\
                     <div class="borderLayer">\
                     	<div class="imageViewport">\
                       	<?xml version="1.0" encoding="UTF-8"?>\
@@ -191,66 +176,6 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
 \
                 </div>\
 \
-\
-                <div id="s-Image_1" class="pie image lockV firer click ie-background commentable non-processed" customid="Image_1"   datasizewidth="28.0px" datasizeheight="28.0px" dataX="21.0" dataY="55.0" aspectRatio="1.0"   alt="image" systemName="./images/6cf4c650-d9ec-49dc-b17b-e3b80de9d00b.svg" overlay="#372F27">\
-                  <div class="borderLayer">\
-                  	<div class="imageViewport">\
-                    	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" height="64" id="s-Image_1-Layer_1" viewBox="0 0 64 64" width="64"><title>1</title><rect height="4.7" width="47" x="8.5" y="29.65" fill="#372F27" jimofill=" " /><rect height="4.7" width="47" x="8.5" y="15.55" fill="#372F27" jimofill=" " /><rect height="4.7" width="47" x="8.5" y="43.75" fill="#372F27" jimofill=" " /></svg>\
-\
-                    </div>\
-                  </div>\
-                </div>\
-\
-\
-                <div id="s-Image_2" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="24.0px" datasizeheight="28.0px" dataX="297.0" dataY="55.0" aspectRatio="1.1666666"   alt="image" systemName="./images/2db798ff-4385-4ff1-983f-641cff37e5ba.svg" overlay="#372F27">\
-                  <div class="borderLayer">\
-                  	<div class="imageViewport">\
-                    	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" height="64" id="s-Image_2-Layer_1" viewBox="0 0 64 64" width="64"><defs><style>#s-Image_2 .cls-1{fill:#372F27 !important;}</style></defs><title>alarm</title><path class="cls-1" d="M55,52a1,1,0,1,0,0-2h0a5,5,0,0,1-5-5.08l-1-13c-0.88-12.35-6.69-20.64-15-21.78V7a1,1,0,0,0-1-1H31a1,1,0,0,0-1,1v3.15c-8.31,1.14-14.12,9.43-15,21.77L14,45a5,5,0,0,1-5,5,1,1,0,0,0,0,2H55ZM13.9,50A6.84,6.84,0,0,0,16,45.08l1-13C17.87,19.88,23.76,12,32,12s14.13,7.88,15,20.08L48,45a7,7,0,0,0,2.11,5H13.9Z" fill="#372F27" jimofill=" " /><path class="cls-1" d="M36.2,54.29a6,6,0,0,1-8.4,0,1,1,0,1,0-1.4,1.42,8,8,0,0,0,11.2,0A1,1,0,0,0,36.2,54.29Z" fill="#372F27" jimofill=" " /></svg>\
-\
-                    </div>\
-                  </div>\
-                </div>\
-\
-\
-                <div id="s-Image_28" class="pie image lockV firer ie-background commentable non-processed" customid="Image_28"   datasizewidth="21.0px" datasizeheight="21.0px" dataX="333.0" dataY="59.0" aspectRatio="1.0"   alt="image" systemName="./images/a14b26a6-f780-4a31-ba07-51b519c70e92.svg" overlay="#372F27">\
-                  <div class="borderLayer">\
-                  	<div class="imageViewport">\
-                    	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" version="1" viewBox="0 0 24 24" width="24"><path d="M23.854 23.146l-9.026-9.026c1.335-1.502 2.172-3.457 2.172-5.62 0-4.687-3.813-8.5-8.5-8.5s-8.5 3.813-8.5 8.5 3.813 8.5 8.5 8.5c2.163 0 4.118-.837 5.62-2.173l9.026 9.026c.098.098.226.147.354.147s.256-.049.354-.146c.195-.196.195-.512 0-.708zm-22.854-14.646c0-4.136 3.364-7.5 7.5-7.5s7.5 3.364 7.5 7.5-3.364 7.5-7.5 7.5-7.5-3.364-7.5-7.5z" fill="#372F27" jimofill=" " /></svg>\
-\
-                    </div>\
-                  </div>\
-                </div>\
-\
-                <div id="shapewrapper-s-Ellipse_3" customid="Ellipse_3" class="shapewrapper shapewrapper-s-Ellipse_3 non-processed"   datasizewidth="14.0px" datasizeheight="14.0px" datasizewidthpx="14.0" datasizeheightpx="14.0" dataX="295.0" dataY="60.0" >\
-                    <div class="backgroundLayer">\
-                      <div class="colorLayer"></div>\
-                      <div class="imageLayer"></div>\
-                    </div>\
-                    <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Ellipse_3" class="svgContainer" style="width:100%; height:100%;">\
-                        <g>\
-                            <g clip-path="url(#clip-s-Ellipse_3)">\
-                                    <ellipse id="s-Ellipse_3" class="pie ellipse shape non-processed-shape manualfit firer commentable non-processed" customid="Ellipse_3" cx="7.0" cy="7.0" rx="7.0" ry="7.0">\
-                                    </ellipse>\
-                            </g>\
-                        </g>\
-                        <defs>\
-                            <clipPath id="clip-s-Ellipse_3" class="clipPath">\
-                                    <ellipse cx="7.0" cy="7.0" rx="7.0" ry="7.0">\
-                                    </ellipse>\
-                            </clipPath>\
-                        </defs>\
-                    </svg>\
-                    <div class="paddingLayer">\
-                        <div id="shapert-s-Ellipse_3" class="content firer" >\
-                            <div class="valign">\
-                                <span id="rtr-s-Ellipse_3_0">2</span>\
-                            </div>\
-                        </div>\
-                    </div>\
-                </div>\
                 </div>\
 \
               </div>\
@@ -258,32 +183,7 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           </div>\
         </div>\
       </div>\
-      <div id="s-Dynamic_Panel_1" class="pie dynamicpanel firer commentable non-processed" customid="Dynamic_Panel" datasizewidth="316.0px" datasizeheight="498.0px" dataX="21.0" dataY="181.0" >\
-        <div id="s-Panel_2" class="pie panel default firer commentable non-processed" customid="Panel_1"  datasizewidth="316.0px" datasizeheight="498.0px" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-          	<div class="layoutWrapper scrollable">\
-          	  <div class="paddingLayer">\
-                <div class="freeLayout">\
-                <div id="s-Image_5" class="pie image firer dragstart drag dragend ie-background commentable non-processed" customid="Image 5"   datasizewidth="787.0px" datasizeheight="1051.0px" dataX="-118.0" dataY="-88.0"   alt="image">\
-                  <div class="borderLayer">\
-                  	<div class="imageViewport">\
-                  		<img src="./images/50a78531-3080-443f-bb40-ca5669ea2058.png" />\
-                  	</div>\
-                  </div>\
-                </div>\
-\
-                </div>\
-\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Button_1" class="pie button multiline manualfit firer toggle commentable non-processed" customid="Button"   datasizewidth="188.0px" datasizeheight="44.0px" dataX="93.5" dataY="595.0" >\
+      <div id="s-Name_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Name"   datasizewidth="221.7px" datasizeheight="28.0px" dataX="76.6" dataY="47.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -292,7 +192,70 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Button_1_0">Zoom +</span>\
+                <span id="rtr-s-Name_1_0">Welcome To Cape York</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Image_1" class="pie image firer ie-background commentable non-processed" customid="Image 1"   datasizewidth="291.3px" datasizeheight="184.8px" dataX="41.9" dataY="221.2"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/89ecb7bc-1dcc-4540-a154-e60a6840850f.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_2" class="pie image firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="306.5px" datasizeheight="190.0px" dataX="34.2" dataY="503.0"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/0d51ce6d-9a5e-40f5-8fd4-903525637395.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Name_5" class="pie richtext autofit firer ie-background commentable non-processed" customid="Name_1"   datasizewidth="233.4px" datasizeheight="24.0px" dataX="26.5" dataY="469.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Name_5_0">Keep distance from wildlife </span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_3" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_1"   datasizewidth="334.0px" datasizeheight="126.0px" dataX="20.5" dataY="709.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_3_0">Freshwater and saltwater crocs are found in the Cape&rsquo;s waterways, So avoid the &nbsp;edge of rivers and creeks, &nbsp;Only swim in well-known crock free areas. If a croc is spotted stay well away..</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Rectangle_2" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_2"   datasizewidth="160.0px" datasizeheight="43.0px" datasizewidthpx="160.0" datasizeheightpx="43.0" dataX="103.0" dataY="843.5" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_2_0">Enter App</span>\
               </div>\
             </div>\
           </div>\

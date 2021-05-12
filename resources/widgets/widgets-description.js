@@ -3,22 +3,6 @@
 		rootWidgetMap : widgetRootMap = {}
 	};
 
-	widgets.descriptionMap[["s-Image_29", "31f65544-0ce9-473b-b4af-4653bd7dba77"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_29", "31f65544-0ce9-473b-b4af-4653bd7dba77"]] = ["Thumb Up", "s-Image_29"]; 
-
-	widgets.descriptionMap[["s-Image_30", "31f65544-0ce9-473b-b4af-4653bd7dba77"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_30", "31f65544-0ce9-473b-b4af-4653bd7dba77"]] = ["Thumb Up", "s-Image_30"]; 
-
-	widgets.descriptionMap[["s-Image_31", "31f65544-0ce9-473b-b4af-4653bd7dba77"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_31", "31f65544-0ce9-473b-b4af-4653bd7dba77"]] = ["Thumb Up", "s-Image_31"]; 
-
-	widgets.descriptionMap[["s-Image_32", "31f65544-0ce9-473b-b4af-4653bd7dba77"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_32", "31f65544-0ce9-473b-b4af-4653bd7dba77"]] = ["Thumb Up", "s-Image_32"]; 
-
 	widgets.descriptionMap[["s-Home_Indicator", "31f65544-0ce9-473b-b4af-4653bd7dba77"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Home_Indicator", "31f65544-0ce9-473b-b4af-4653bd7dba77"]] = ["Home indicator", "s-Home_Indicator"]; 
@@ -279,6 +263,34 @@
 
 			widgets.rootWidgetMap[["s-Paragraph_6", "994df46f-97c9-4bcb-a817-25d6bb6d2c1c"]] = ["Text", "s-Paragraph_6"]; 
 
+	widgets.descriptionMap[["s-Image_13", "994df46f-97c9-4bcb-a817-25d6bb6d2c1c"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_13", "994df46f-97c9-4bcb-a817-25d6bb6d2c1c"]] = ["Checkbox off button", "s-Image_13"]; 
+
+	widgets.descriptionMap[["s-Image_14", "994df46f-97c9-4bcb-a817-25d6bb6d2c1c"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_14", "994df46f-97c9-4bcb-a817-25d6bb6d2c1c"]] = ["Checkbox on button", "s-Image_14"]; 
+
+	widgets.descriptionMap[["s-Text_2", "4ddb5777-1a25-4d40-9594-e5619548549c"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Text_2", "4ddb5777-1a25-4d40-9594-e5619548549c"]] = ["Title Button", "s-Text_2"]; 
+
+	widgets.descriptionMap[["s-Image_17", "4ddb5777-1a25-4d40-9594-e5619548549c"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_17", "4ddb5777-1a25-4d40-9594-e5619548549c"]] = ["Signal", "s-Image_17"]; 
+
+	widgets.descriptionMap[["s-Image_18", "4ddb5777-1a25-4d40-9594-e5619548549c"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_18", "4ddb5777-1a25-4d40-9594-e5619548549c"]] = ["Signal", "s-Image_18"]; 
+
+	widgets.descriptionMap[["s-Image_4", "4ddb5777-1a25-4d40-9594-e5619548549c"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_4", "4ddb5777-1a25-4d40-9594-e5619548549c"]] = ["Status bar dark", "s-statusBar"]; 
+
+	widgets.descriptionMap[["s-Rectangle_2", "4ddb5777-1a25-4d40-9594-e5619548549c"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Rectangle_2", "4ddb5777-1a25-4d40-9594-e5619548549c"]] = ["Light button 2", "s-Rectangle_2"]; 
+
 	widgets.descriptionMap[["s-Text_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Text_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Title Button", "s-Text_2"]; 
@@ -338,6 +350,10 @@
 	widgets.descriptionMap[["s-Home_Indicator", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Home_Indicator", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Home indicator", "s-Home_Indicator"]; 
+
+	widgets.descriptionMap[["s-Image_96", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_96", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Exit", "s-Image_96"]; 
 
 	widgets.descriptionMap[["s-Text_2", "a4ad34e3-1473-45d5-9be4-6901ad798673"]] = ""; 
 
